@@ -1,4 +1,4 @@
 # ToDo-ReactNative
 A simple ToDo app with React Native
 
-![ScreenShot](https://raw.github.com/alessiodipasquale/ToDo-ReactNative/master/screenshot.png)
+![ScreenShot](https://github.com/alessiodipasquale/ToDo-ReactNative/blob/master/screenshoot.png)
